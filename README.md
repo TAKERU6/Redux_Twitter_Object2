@@ -1,2 +1,2 @@
-# Redux_Twitter_Object2
+# Redux_Twitter_Obj
 Created with CodeSandbox
